@@ -1,4 +1,5 @@
 # OOPD-Project
+Coomand used in Makefile are:-
 1)g++ -c project.cpp
 g++: This is the command for compiling C++ programs.
 -c: This option instructs the compiler to generate an object file without linking. 
