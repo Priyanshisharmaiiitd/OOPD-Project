@@ -8,4 +8,4 @@ g++: TThis is the command for compiling C++ programs..
 -o main: Specifies the output file name as main. The compiled program will be saved as an executable file with this name.
 project.o: The object file generated in the previous compilation step, representing the compiled code from project.cpp.
 3)./main
-./main: Executes the compiled program named main..
+./main: Executes the compiled program named main
